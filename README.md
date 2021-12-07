@@ -1,4 +1,4 @@
-:raised_hand:  Hi, I’m @fralomb a Software Engineer
+:raised_hand:  Hi, I’m @fralomb a Software adn DevOps Engineer
 
 :books:  Interested in: Software developpement, Infrastructure architectures, Smart Home solutions, Embedded Systems, etc ...
 
