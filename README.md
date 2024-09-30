@@ -1,8 +1,9 @@
-👋 Hey there! I'm a Cloud Engineer and DevOps and a knack for Kubernetes, harnessing the power of Neovim for seamless coding experiences. My focus is on creating resilient cloud architectures and optimizing workflows for maximum efficiency and scalability. I thrive on challenges in cloud architecture and enjoy sharing my experiences with Kubernetes, CI/CD, and system reliability.
+👋 Greetings! I'm an experienced Cloud and DevOps Engineer specialist with a mastery for Kubernetes and a passion for the terminal and expecially for efficient text editing using Neovim. My expertise lies in architecting robust cloud solutions and streamlining workflows to achieve peak performance and scalability. I relish tackling complex challenges in cloud architecture and find great satisfaction in sharing insights on Kubernetes, CI/CD pipelines, and enhancing system reliability.
 
-🏃 Outside of tech, running is my escape, helping me maintain a creative and sharp problem-solving mindset.
+🏃 When not immersed in code, I lace up my running shoes and find relif and inspiration while hitting the road. This physical pursuit not only keeps me energized but also sharpens my problem-solving skills, fostering a creative approach to technical challenges.
 
-🤝 Keen to collaborate on open-source projects, I'm always exploring new horizons in cloud technology and coding. Open for collaboration and eager to learn, let's connect and innovate together in the realms of Cloud and DevOps!
+🤝 Keen to collaborate on open-source projects, I'm constantly exploring cutting edge technologies, open to new collaborations and eager to expand my knowledge.
+
 
 
 <!---
